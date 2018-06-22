@@ -1,3 +1,5 @@
+[Back <](../README.md)
+
 # Article 1/5: My first hackathon!
 
 This is the first article of a short blog series where I will be sharing my experience, interesting findings and much more about frontend development. This series is part of an assignment for my “Everything Web” Minor course. I really hope you guys enjoy reading it as much as I enjoyed writing it.
