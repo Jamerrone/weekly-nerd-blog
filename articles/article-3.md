@@ -1,4 +1,4 @@
-[Back <](../README.md) | [Part 2 >](/article-4.md)
+[Back <](../README.md) | [Part 2 >](./articles/article-4.md)
 
 # Article 3/5: Service Worker the Basic part 1
 
@@ -97,9 +97,10 @@ Next week we will be focusing much more on code and practical examples. You will
 I really hope you guys found this article somewhat useful or at least entertaining. This was it for today's article, and I really hope to see you guys next week. Take care!
 
 ## Resources
-* [Service Workers: an Introduction  |  Web Fundamentals       |  Google Developers](https://developers.google.com/web/fundamentals/primers/service-workers/)
-* [Service Worker API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
-* [Making A Service Worker: A Case Study — Smashing Magazine](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
-* [Introduction to Service Workers - YouTube](https://www.youtube.com/watch?v=jVfXiv03y5c)
 
-[Back <](../README.md) | [Part 2 >](/article-4.md)
+- [Service Workers: an Introduction  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/primers/service-workers/)
+- [Service Worker API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+- [Making A Service Worker: A Case Study — Smashing Magazine](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
+- [Introduction to Service Workers - YouTube](https://www.youtube.com/watch?v=jVfXiv03y5c)
+
+[Back <](../README.md) | [Part 2 >](./articles/article-4.md)
