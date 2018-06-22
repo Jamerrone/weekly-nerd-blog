@@ -37,3 +37,5 @@ After completing our assignment and meeting our deadline, we had to give a short
 ## Reflection
 
 I started working on the project without really knowing anything. We had just made a repository and each of us started doing its own thing. Soon enough we started relying on each other more and more. Because of our lack of communication, we ended up with a lot of code conflicts. I really wish we had communicated more, especially before starting to code. Doing so could have prevented a lot of lost time and without a doubt a better, more completed end product.
+
+[Back <](../README.md)

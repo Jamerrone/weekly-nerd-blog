@@ -93,3 +93,5 @@ If the browser does not support the dialog element the code above will never exe
 ## Conclusion
 
 I really hope you guys found this article somewhat useful or at least entertaining. This was it for today's article, and I really hope to see you guys next week. Take care!
+
+[Back <](../README.md)
