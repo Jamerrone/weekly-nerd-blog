@@ -79,7 +79,7 @@ if ('open' in document.createElement('dialog')) {
 }
 ```
 
-This is we need! Now let me explain what is going on. Just like the details element, the dialog element also has an open property.
+This is all we need! Now let me explain what is going on. Just like the details element, the dialog element also has an open property.
 
 - Using the example I explained earlier we can check if a browser supports the dialog tag if it does we can execute our code. `const dialog = document.createElement('dialog')` will create a new dialog element and store it in memory.
 - Using the following ternary operator we can toggle the open property on or off: `dialog.open ? dialog.open = false : dialog.open = true`.
