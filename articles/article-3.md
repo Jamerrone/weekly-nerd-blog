@@ -1,4 +1,4 @@
-[Back <](../README.md) | [Part 2 >](./articles/article-4.md)
+[Back <](../README.md) | [Part 2 >](./article-4.md)
 
 # Article 3/5: Service Worker the Basic part 1
 
@@ -103,4 +103,4 @@ I really hope you guys found this article somewhat useful or at least entertaini
 - [Making A Service Worker: A Case Study — Smashing Magazine](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
 - [Introduction to Service Workers - YouTube](https://www.youtube.com/watch?v=jVfXiv03y5c)
 
-[Back <](../README.md) | [Part 2 >](./articles/article-4.md)
+[Back <](../README.md) | [Part 2 >](./article-4.md)
