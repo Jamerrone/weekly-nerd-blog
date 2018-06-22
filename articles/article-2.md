@@ -94,4 +94,8 @@ If the browser does not support the dialog element the code above will never exe
 
 I really hope you guys found this article somewhat useful or at least entertaining. This was it for today's article, and I really hope to see you guys next week. Take care!
 
+## Resources
+
+[Implementing feature detection - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Feature_detection)
+
 [Back <](../README.md)
