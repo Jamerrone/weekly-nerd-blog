@@ -4,6 +4,7 @@
 - [Article 2/5: Feature detection](./articles/article-2.md)
 - [Article 3/5: Service Worker the Basic part 1](./articles/article-3.md)
 - [Article 4/5: Service Worker the Basic part 2](./articles/article-4.md)
+- [Article 5/5: Working in a team is f\*\*\*ing hard!](./articles/article-45md)
 
 ## Weekly Nerds
 
