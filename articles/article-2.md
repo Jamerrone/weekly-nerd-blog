@@ -4,13 +4,13 @@
 
 This is the second article of a short blog series where I will be sharing my experience, interesting findings and much more about frontend development. This series is part of an assignment for my “Everything Web” Minor course. I really hope you guys enjoy reading it as much as I enjoyed writing it.
 
-Today we will be focussing on two major topics. First I will talk a bit about browser support and _"feature detection"_. Secondly, I will be explaining how to import or _"fetch"_ the content from an HTML file into another one. While these topics may sound nonrelated, they are actually depended on each other. You will understand it soon enough. Fetching content from another file can be very helpful for us developers, while also providing a better and faster experience for our users.
+Today we will be focussing on two major topics. First I will talk a bit about browser support and _"feature detection"_. Secondly, I will be explaining how to import or _"fetch"_ the content from an external HTML file into another one. While these topics may sound non-related, they are actually depended on each other. You will understand it soon enough. Fetching content from another file can be very helpful for us developers, while also providing a better and faster experience for our users.
 
 ## What is feature detection anyway?
 
 "Feature detection involves working out whether a browser supports a certain block of code, and running different code dependent on whether it does (or doesn't), so that the browser can always provide a working experience rather crashing/erroring in some browsers." — [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Feature_detection)
 
-In other words, Feature Detection is the art of detecting whether a given browser supports a feature we want to use or not. In case it doesn't, we may choose to provide an alternated option, also called the fallback. We can also choose to skip the nonsupported feature altogether.
+In other words, Feature Detection is the art of detecting whether a given browser supports a feature we want to use or not. In case it doesn't, we may choose to provide an alternated option, also called the fallback. We can also choose to skip the non-supported feature altogether.
 
 ### Example:
 
@@ -39,7 +39,7 @@ Using feature detection means that you can choose to run a code block only on br
 
 Fair enough. Let’s code! We are going to build a simple model using the newest and bad supported "dialog" element. Right now Google Chrome is the only browser that really supports this new feature. In case a user is using another browser, he won’t even notice anything. In the place of a "dialog", we will simply redirect the user to a new and standalone HTML page.
 
-Given the fact that we developers don’t repeat ourselves, we will be fetching the content from the second HTML page and display it inside the modal for Chrome users.
+Given the fact that we developers don’t like to repeat ourselves, we will be fetching the content from the second HTML page and display it inside the modal for Chrome users.
 
 You can find a working demo [here](https://jamerrone.github.io/browser-technologies/opdracht2/modal/).
 

@@ -8,7 +8,7 @@ Today I will be talking about my first hackathon experience. This event took pla
 
 ## Our assignment
 
-After choosing a project I and a classmate joined the project owners for a short meeting. During this meeting, they explained their project, expectations and general information to us. Being the smallest group, me and my college decided to work together.
+After choosing a project I and a classmate joined the project owners for a short meeting. During this meeting, they explained their project, expectations and general information to us. Being the smallest group, me and my colleague decided to work together.
 
 Our client's project was a simple multiplayer game where players got a randomly selected persona (character) based on multiple real-life stereotypes. It was a bit racist, for example, a Chinese that loved traveling and took pictures of everything on its way. Or the fact that building a Muslim religious building generated a security penalty. It didn't really bother me, just something I noticed. Each persona had a short biographical description with its interests, likes, and dislikes.
 
@@ -16,7 +16,7 @@ Players were expected to roleplay the given persona. The game itself took place 
 
 ## My job as a frontend developer
 
-Our clients had zero programming experience and required our help to build a solid code structure and starting point for there game mechanics. Especially the tasks system and the required game mechanic calculations. The concept and design were almost completed by the time we got involved.
+Our clients had zero programming experience and required our help to build a solid code structure and starting point for their game mechanics. Especially the tasks system and the required game mechanic calculations. The concept and design were almost completed by the time we got involved.
 
 Given our past experience with [socket.io](http://socket.io), we decided to apply this technology to this project. Especially because there where multiple clients involved that had to communicate with each other and our servers simultaneously. In the end, this turned out to be a good choice but a bit too complicated for the product owners who had zero experience. My original goal was completing every core mechanics in the given time, especially because they were simple and easy to comprehend. However, just like everything else in life, it did not go as planned. I and my partner were really dependent on each other's work and this lead to a lot of merge conflicts, especially at the start. We had two very different coding styles and editor settings with lead to a lot of merge conflicts. Thankfully we could come up with a solid coding convention on the spot that really helped us out completing our work.
 
