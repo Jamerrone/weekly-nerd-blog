@@ -27,7 +27,11 @@ We as a team were pushing about 100 commits each week, while this is far from id
 
 ## Tooling & Code conventions
 
-Do you have any idea what the hardest thing is for developers while working together? Well, it is deciding if you should use 2 spaces, 4 spaces or a single tab. It can also be deciding if you should use single quotes or double quotes. Lastly, it can also be deciding if you should use a semicolon or not.
+Do you have any idea what the hardest thing is for developers while working together? Well, there are multiple ones:
+
+- Deciding if you should use 2 spaces, 4 spaces or a single tab.
+- Deciding if you should use single quotes or double quotes.
+- Deciding if you should use a semicolon or not.
 
 Do you find these arguments as stupid as I do? Well, then you need Prettier. Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary. You can run Prettier on save or even before committing to GitHub. There is even support for your huge, non-necessary ESlint config file.
 
@@ -36,5 +40,12 @@ I don't care with task runner you choose to use, it can be Gulp, Grunt or npm Sc
 ## The End.
 
 I am not sure if this article was helpful to anyone, these are just some thoughts I wanted to share with everyone before completing this project. These past five weeks were not always easy, but in the end, I am very grateful I was able to run this project with the people I did. You probably won't be hearing from me for a very long time, if ever. I do want to thank anyone that spend their time reading one of my articles and I really hope that at least one of them was somewhat helpful to you. Take care and code on!
+
+## Resources
+
+- [Prettier · GitHub](https://github.com/prettier)
+- [The world’s leading software development platform · GitHub](https://github.com)
+- [ESLint - Pluggable JavaScript linter](https://eslint.org)
+- [gulp.js](https://gulpjs.com)
 
 [Back <](../README.md)
